@@ -20,6 +20,16 @@ A React-based subscription management dashboard that helps users track recurring
 - Chart.js
 - localStorage
 
+# Screenshots
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## Subscriptions
+
+![Subscriptions](screenshots/subscriptions.png) 
+
 ## Installation
 
 npm install
